@@ -1,5 +1,5 @@
 # Resume Page 
-This project is a static resume website. Open [bellafang.github.io](https://guozhitang.github.io/GuozhiTang_SelfIntro/) to view the browswer. 
+This project is a static resume website. Open [bellafang.github.io](https://yhfang520.github.io/bellafang.github.io/) to view the browswer. 
 
 ## Introduction 
 
